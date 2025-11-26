@@ -1,7 +1,7 @@
 ## Project Background
 This data modeling project aims to answer some real-world business problems about operating a made-up traveling circus.
 A traveling circus startup has discovered that they have numerous data feeds coming from various sources and would like to consolidate them into an uniform relational data model to assist in answering key business questions.
-The database table codes have been attacched to this repository as [data_table_creation.sql](https://github.com/nelson-analytics/data-modeling-project/blob/main/data_table_creation.sql). The database of choice for this project is Microsoft SQL Server
+The database table codes have been attacched to this repository as [data_table_creation.sql](https://github.com/macmichael-analytics/data-modeling-project/blob/main/data_table_creation.sql). The database of choice for this project is Microsoft SQL Server
 
 ## Gaining an understanding of the nature of the business (domain understanding)
 I began by sitting down and speaking with the group that hired me. I'm hoping to find answers to the following questions: 
@@ -65,3 +65,4 @@ With this data model in place, my client can answer questions such as:
 1.	How many days between ‘fine’ and ‘broken’ a piece of equipment goes on the average.
 2.	How performances are doing in ticket sales relative to the location population.
 3.	Which performances are accelerating for tickets sold over recent months?
+
